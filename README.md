@@ -36,9 +36,9 @@ The dataset used for this analysis is derived from marketing campaigns and inclu
 - Customer_Segment
 - Date
 ## Analysis
-#The project provides various analyses including:
+##The project provides various analyses including:
 
--Average ROI and Conversion Rates by Campaign Type
--Cost Analysis across different channels
--Audience Insights based on demographic segments
--Engagement Correlation with ROI and Conversion Rate
+- Average ROI and Conversion Rates by Campaign Type
+- Cost Analysis across different channels
+- Audience Insights based on demographic segments
+- Engagement Correlation with ROI and Conversion Rate
